@@ -56,7 +56,7 @@
 <layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
 </layers>
 <library>
-<description>RFID devices</description>
+<description>RFID modules</description>
 <packages>
 <package name="RDM6300-UART">
 <description>125Khz RFID module - UART</description>
